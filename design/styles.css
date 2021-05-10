@@ -1,0 +1,87 @@
+body{
+  background-color: #6ddccf; ;
+  margin: 0;
+}
+h1{
+  margin-top: 0;
+  color: hsl(179, 62%, 43%);
+  font-family: 'Karla', sans-serif;
+}
+
+.top{
+  background-color: white;
+  padding: 80px 150px;
+
+}
+.top-h3{
+  color:  hsl(71, 73%, 54%);
+  font-family:  'Karla', sans-serif;
+}
+.top-p{
+  color: grey;
+  font-family:  'Karla', sans-serif;
+  word-spacing: 1.5px;
+  width:80%;
+  line-height: 1.5;
+}
+
+.middle{
+  width: 40%;
+  background-color: hsl(179, 62%, 43%);
+  float: left;
+  padding: 5%;
+
+}
+.bottom{
+  background-color: #6ddccf;
+  width: 50%;
+  float: right;
+  margin-bottom: 0;
+
+
+
+}
+.mid-h2{
+  color: white;
+}
+.bottom-h2{
+  color: white;
+}
+.dollar-month{
+  color: #d8e3e7;
+
+}
+.dollar{
+  color: white;
+  font-size: 36px;
+}
+.mid-p{
+  color: hsl(204, 43%, 93%);
+}
+.content{
+  color: white;
+  width: 60%;
+  margin: auto;
+}
+
+.btn {
+  background:  hsl(71, 73%, 54%);
+  background-image: -webkit-linear-gradient(top,  hsl(71, 73%, 54%),  hsl(71, 73%, 54%));
+  background-image: -moz-linear-gradient(top,  hsl(71, 73%, 54%),  hsl(71, 73%, 54%));
+  background-image: -ms-linear-gradient(top,  hsl(71, 73%, 54%),  hsl(71, 73%, 54%));
+  background-image: -o-linear-gradient(top,  hsl(71, 73%, 54%),  hsl(71, 73%, 54%));
+  background-image: linear-gradient(to bottom,  hsl(71, 73%, 54%),  hsl(71, 73%, 54%));
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 60px 10px 60px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
